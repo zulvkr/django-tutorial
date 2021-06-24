@@ -1,0 +1,5 @@
+**/**/__pycache__/
+polls/migrations/__pycache__
+polls/__pycache__
+**/*.pyc
+*.sqlite3
